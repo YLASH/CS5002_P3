@@ -4,7 +4,7 @@
  The aim of this assignment is that you should be able to
     • Load JSON data from a local file
     • Use the data to build up a table on a webpage
-    • Use the select element to lter the contents of the table
+    • Use the select element to filter the contents of the table
     • Add some interesting extensions of your own invention
 
  Objective: Develop a JavaScript program to analyze American movies data (from 1900 onward) using JSON data provided in movies.json.
